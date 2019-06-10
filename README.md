@@ -11,6 +11,6 @@ Cuando uno entra en su estudio de Pineda de Mar, lo primero que destaca es la lu
 
 # Webs
 [Tokenda.com](https://tokenda.com/) y 
-[PelaezOchoa.GitHub.io](https://pelaezochoa.github.com/)
+[PelaezOchoa.GitHub.io](https://pelaezochoa.github.io/)
 
 ![Jose Antonio Pelaez Ochoa Art Gallery](https://pelaezochoa.github.io/autor/2007_autorretrato_24x20.jpg)
